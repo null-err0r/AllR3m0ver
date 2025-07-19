@@ -32,3 +32,5 @@ Permission management: Request necessary permissions to access memory dynamicall
 Use the tabs above to switch between categories of images, videos and audio.
 
 To delete all files in a batch, click the "Delete All" button and confirm.
+
+![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.AllR3m0ver) 
